@@ -69,7 +69,7 @@
 <br>
 <h2 align="center">GitHub Stats:</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaval-pathak&show_icons=true&line_height=20&title_color=7373cf&icon_color=2234AE&text_color=ffffff&bg_color=0c0a29&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="dhaval-pathak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaval-Pathak&show_icons=true&line_height=20&title_color=7373cf&icon_color=2234AE&text_color=ffffff&bg_color=0c0a29&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="dhaval-pathak" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhaval-pathak&show_icons=true&line_height=20&icon_color=2234AE&include_all_commits=true&count_private=true&title_color=7373cf&text_color=ffffff&bg_color=0c0a29&locale=en" alt="dhaval-pathak" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval-pathak&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
